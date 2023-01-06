@@ -72,6 +72,7 @@ TARGET_ENABLE_MEDIADRM_64 := true
 
 # Others
 BUILD_BROKEN_DUP_RULES := true
+BUILD_BROKEN_ENFORCE_SYSPROP_OWNER := true
 
 # DT2W
 TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
